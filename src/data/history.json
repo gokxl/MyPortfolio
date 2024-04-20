@@ -1,0 +1,18 @@
+[
+  {
+    "role": "Software Engineer",
+    "organisation": "HPE",
+    "startDate": "Jan, 2023",
+    "endDate": "Present",
+    "experiences": ["Automated system for server health monitoring using enhanced machine learning algorithms,streamlining data cleanup and verification processes", " Developer for an essential Build Script in the Server Firmware Updates solution."],
+    "imageSrc": "history/hpe.png"
+  },
+  {
+    "role": "SWE Intern",
+    "organisation": "DEBEL",
+    "startDate": "Nov, 2022",
+    "endDate": "Dec, 2022",
+    "experiences": ["Worked on NVIDIA JETSON TX2", "Designed UI for Internal Applications"],
+    "imageSrc": "history/debel.png"
+  }
+]

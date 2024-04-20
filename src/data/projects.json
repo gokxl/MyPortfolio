@@ -1,0 +1,26 @@
+[
+  {
+    "title": "iMovies",
+    "imageSrc": "projects/imovies.png",
+    "description": "This Online Movie Reservation System aims to simplify the movie booking process, simple interface for user. A seamless online experience for booking tickets, making the entire process enjoyable.",
+    "skills": ["PHP", "MySQL", "Bootstrap"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/gokxl/iMovies"
+  },
+  {
+    "title": "Webulance",
+    "imageSrc": "projects/webulance.png",
+    "description": "The website speeds up emergency response by connecting users directly to ambulance services, cutting out middlemen. This reduces response time and helps ambulance drivers locate victims quickly using GPS signals.",
+    "skills": ["Javascript", "Maps API", "Laravel"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/gokxl/Webulance"
+  },
+  {
+    "title": "Secure Chat using RSA and Steganorgraphy",
+    "imageSrc": "projects/rsa.png",
+    "description": "This project enables users to encrypt text into images using Steganography and RSA. Senders select a recipient, an image, and their message. Recipients generate a decryption key to reveal the hidden text",
+    "skills": ["Python CGI Scripts", "MySQL", "PHP"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/gokxl/RSA"
+  }
+]
